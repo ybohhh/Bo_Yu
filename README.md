@@ -24,7 +24,7 @@ Serverless data pipeline processing 100K+ daily transactions with real-time anal
 - **Tech**: AWS Lambda, S3, RDS, Python, Flask
 - **Impact**: 80% faster data availability, 60% fewer ad-hoc requests
 
-### [CloudMusic Analytics Platform](https://github.com/ybohhh/cloudmusic-analytics)
+### [CloudMusic Analytics Platform](https://github.com/ybohhh/cloudmusic-data-platform)
 End-to-end BI solution for music streaming analytics
 - **Tech**: MySQL, Snowflake, dbt, Tableau
 - **Impact**: Sub-second queries on 10M+ records
